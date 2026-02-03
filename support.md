@@ -1,16 +1,22 @@
-# Support
+# 🆘 Support
 
-Thank you for purchasing the Account Planning module for Perfex CRM.
-
-## Getting Help
-
-If you have any questions relating to this module or run into trouble and need assistance:
-
-- **Support Ticketing Area:** [https://modulesic.com/support](https://modulesic.com/support)
-- **CodeCanyon Contact:** [http://codecanyon.net/user/modulesic](http://codecanyon.net/user/modulesic)
-
-A member of our team will get back to you as soon as possible (TAT: 1 workday).
+Thank you for using the Project Roadmap module for Perfex CRM.
 
 ---
 
-**Themesic Interactive**
+## 📞 Getting Help
+
+| Resource | Link |
+|----------|------|
+| **CodeCanyon** | [Project Roadmap on CodeCanyon](https://codecanyon.net/item/project-roadmap-advanced-reporting-for-perfex-crm-projects/26761482) |
+| **Author** | Themesic Interactive |
+| **Support** | Use the support tab on the CodeCanyon item page |
+
+---
+
+## 🔗 Quick Links
+
+| Resource | Link |
+|----------|------|
+| 📦 Module | [CodeCanyon](https://codecanyon.net/item/project-roadmap-advanced-reporting-for-perfex-crm-projects/26761482) |
+| 📚 Perfex CRM | [perfexcrm.com](https://www.perfexcrm.com) |

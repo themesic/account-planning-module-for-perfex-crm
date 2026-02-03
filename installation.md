@@ -1,33 +1,55 @@
-# Upload & Activate the Module
+# 📦 Installation
 
-Follow these steps to install and activate the Account Planning module in your Perfex CRM installation.
+## 📋 Requirements
 
-## Step 1: Extract Your Download
-
-Extract your downloaded file contents. You will notice:
-
-- A **documentation** folder containing this readme and helpful instructions (not needed for Perfex CRM installation)
-- An **upload.zip** file containing the module files
-
-Focus on the **upload.zip** file for installation.
-
-## Step 2: Access Modules Setup
-
-1. Log in to your Perfex CRM Admin area
-2. Navigate to **SETUP > MODULES**
-
-## Step 3: Install the Module
-
-1. Click to install a new module
-2. Select the extracted **upload.zip** file at the Module installation selection prompt
-3. Press **INSTALL**
-
-## Step 4: Activate the Module
-
-1. Find the newly installed module in the modules list
-2. Press **ACTIVATE**
-3. You will be notified that the module is successfully activated
+| Requirement | Version |
+|-------------|---------|
+| Perfex CRM | 2.3.x or higher |
+| PHP | 7.2+ |
 
 ---
 
-**That's it!** You are now ready to start using the Account Planning module.
+## 🔧 Step-by-Step Installation
+
+### 1️⃣ Extract the Package
+
+- Download the module from CodeCanyon
+- Extract the ZIP file to your computer
+- Locate the **upload.zip** file (contains the module files)
+
+### 2️⃣ Install via Perfex CRM
+
+1. Log in to your Perfex CRM admin panel
+2. Go to **Setup → Modules**
+3. Click **Install** (or **Upload**)
+4. Select the **upload.zip** file
+5. Wait for the upload to complete
+
+### 3️⃣ Activate the Module
+
+1. Find **Project Roadmap** in the modules list
+2. Click **Activate**
+3. Complete any verification steps if prompted (license/CodeCanyon purchase code)
+
+### 4️⃣ Verify Installation
+
+- The **Project Roadmap** menu item will appear in your sidebar
+- Click it to access the module
+- You can now open any project and see the Project Roadmap views
+
+---
+
+## ✅ Post-Installation
+
+- **Permissions:** Staff roles can be configured in Setup → Staff → Roles (View, Edit, Manage)
+- **Custom Fields:** Admins can add project/task custom fields via Project Roadmap → Custom Fields
+- **AI Suggestions:** Enable in Project Roadmap → AI Suggestions Settings (admin only)
+
+---
+
+## 🔄 Updating the Module
+
+1. Backup your database and files
+2. Deactivate the module
+3. Install the new version (upload.zip)
+4. Reactivate the module
