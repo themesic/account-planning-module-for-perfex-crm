@@ -1,4 +1,4 @@
-# Templates
+# 📄 Templates
 
 Templates let you create reusable structures for account plans. Instead of entering the same fields every time, you start from a template and adjust as needed.
 

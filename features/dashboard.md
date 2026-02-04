@@ -1,4 +1,4 @@
-# Dashboard Widget
+# 📈 Dashboard Widget
 
 The Account Planning module adds a widget to the Perfex CRM dashboard. It gives you a quick overview of your account plans without opening the module.
 

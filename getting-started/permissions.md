@@ -1,4 +1,4 @@
-# Permissions
+# 🔐 Permissions
 
 The Account Planning module uses Perfex CRM's permission system. You control who can view, create, edit, and delete account plans.
 

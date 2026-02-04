@@ -1,4 +1,4 @@
-# Plan Tabs and Sections
+# 📑 Plan Tabs and Sections
 
 When you open an account plan, you see several tabs on the left. Each tab holds different types of information. This page explains each one.
 

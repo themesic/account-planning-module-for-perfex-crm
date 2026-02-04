@@ -1,4 +1,4 @@
-# Kanban View
+# 📌 Kanban View
 
 The Kanban view shows your account plans as cards in columns. Each column represents a plan status. You can drag and drop cards to change status quickly.
 

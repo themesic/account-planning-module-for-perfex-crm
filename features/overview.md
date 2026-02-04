@@ -1,4 +1,4 @@
-# Features Overview
+# 📋 Features Overview
 
 The Account Planning module provides a complete workflow for managing strategic account plans. This page gives you a high-level overview of all features.
 

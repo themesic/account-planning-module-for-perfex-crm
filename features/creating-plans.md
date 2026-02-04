@@ -1,4 +1,4 @@
-# Creating a New Account Plan
+# ➕ Creating a New Account Plan
 
 This guide walks you through creating an account plan from scratch. You can also create plans from templates—see [Templates](templates.md).
 

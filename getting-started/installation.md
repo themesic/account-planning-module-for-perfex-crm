@@ -1,4 +1,4 @@
-# Installation
+# 📦 Installation
 
 This guide walks you through installing the Account Planning module in Perfex CRM. No technical experience is required—just follow the steps in order.
 

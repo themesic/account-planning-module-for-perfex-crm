@@ -1,4 +1,4 @@
-# Client Portal
+# 🌐 Client Portal
 
 When the client portal is enabled, your clients can view their account plans and request updates—all from their client portal login.
 

@@ -1,4 +1,4 @@
-# Managing Account Plans
+# 📊 Managing Account Plans
 
 The main Account Planning screen shows all your account plans in a table. You can filter, sort, save filters, and perform bulk actions.
 

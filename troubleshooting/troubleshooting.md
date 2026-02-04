@@ -1,4 +1,4 @@
-# Troubleshooting
+# 🔍 Troubleshooting
 
 This page covers common issues and solutions for the Account Planning module.
 

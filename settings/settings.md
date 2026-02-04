@@ -1,4 +1,4 @@
-# Module Settings
+# 🔧 Module Settings
 
 Only **administrators** can access the Account Planning settings. Go to **Account Planning** → **Settings** (gear icon) to configure the module.
 

@@ -1,4 +1,4 @@
-# Activation
+# 🔑 Activation
 
 After installing the Account Planning module, you must activate it with your purchase code. This step verifies your license and enables all features.
 

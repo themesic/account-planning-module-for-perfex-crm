@@ -1,4 +1,4 @@
-# Relations (Projects, Invoices, Estimates)
+# 🔗 Relations (Projects, Invoices, Estimates)
 
 Relations link your account plans to real work in Perfex CRM: projects, invoices, estimates, and proposals. This keeps everything connected in one place.
 

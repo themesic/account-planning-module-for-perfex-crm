@@ -1,10 +1,10 @@
-# Account Planning Module for Perfex CRM
+# 📖 Account Planning Module for Perfex CRM
 
 Welcome to the **Account Planning Module** documentation. This guide will help you understand, install, and use the module to manage strategic account planning within your Perfex CRM.
 
 ---
 
-## What is Account Planning?
+## 💡 What is Account Planning?
 
 **Account Planning** is a customer-centric approach to managing your most important clients. It helps you:
 
@@ -16,7 +16,7 @@ Welcome to the **Account Planning Module** documentation. This guide will help y
 
 ---
 
-## Who Is This For?
+## 👥 Who Is This For?
 
 This documentation is written for **everyone**—whether you are:
 
@@ -29,7 +29,7 @@ We explain each step clearly, with screenshots and examples where helpful.
 
 ---
 
-## What You'll Find Here
+## 📚 What You'll Find Here
 
 | Section | Description |
 |--------|--------------|
@@ -41,7 +41,7 @@ We explain each step clearly, with screenshots and examples where helpful.
 
 ---
 
-## Quick Start
+## ⚡ Quick Start
 
 1. **Install** the module in Perfex CRM (Setup → Modules → Upload).
 2. **Activate** it and enter your purchase code.
@@ -52,7 +52,7 @@ For detailed steps, go to [Installation](getting-started/installation.md).
 
 ---
 
-## Requirements
+## 📌 Requirements
 
 - **Perfex CRM** version 2.3 or higher
 - A valid purchase license from CodeCanyon
@@ -60,7 +60,7 @@ For detailed steps, go to [Installation](getting-started/installation.md).
 
 ---
 
-## Need Help?
+## 🆘 Need Help?
 
 - Check the [Troubleshooting](troubleshooting/troubleshooting.md) section for common problems
 - Review the [Settings](settings/settings.md) page for configuration options
